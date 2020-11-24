@@ -7,7 +7,7 @@ Utility data structure for Deno (Original Author: **Discord.js Developers**).
 # Example
 
 ```js
-import { Collection } from "https://raw.githubusercontent.com/Snowflake107/collection/master/mod.ts";
+import { Collection } from "https://deno.land/x/collection/mod.ts";
 
 const store = new Collection();
 
